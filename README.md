@@ -12,3 +12,6 @@ REST API - > Dataframe - > Pre-process Data - > Add columns for variability - > 
 
 **Parquet File (info_blogs.parquet)**
 - Prepared data for loading to Google BigQuery/Postgres via Python script
+
+**Libraries:**
+(pandas, pyarrow, numpy)
